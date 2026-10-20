@@ -1,10 +1,13 @@
-Salut, je suis OUADAY sara, étudiante en master TEE.
+## Salut, 
+je suis OUADAY sara, étudiante en master TEE.
 
 Ce projet est mon TP2 de NLP (Natural Language Processing). J'y ai appris à transformer du texte en vecteurs numériques pour qu'une machine puisse l'utiliser.
 
-Ce que j'ai fait Phrases : j'ai créé 3 phrases sur le sport et le cinéma Bag of Words : CountVectorizer pour compter les mots de chaque phrase Matrice : affichage de la matrice et de la liste des mots extraits TF-IDF : TfidfVectorizer sur les mêmes phrases pour donner plus de poids aux mots importants Comparaison : analyse des poids BoW et TF-IDF mot par mot Questions : réponses sur les limites du Bag of Words et sur la différence avec TF-IDF
+## Ce que j'ai fait Phrases :
+j'ai créé 3 phrases sur le sport et le cinéma Bag of Words : CountVectorizer pour compter les mots de chaque phrase Matrice : affichage de la matrice et de la liste des mots extraits TF-IDF : TfidfVectorizer sur les mêmes phrases pour donner plus de poids aux mots importants Comparaison : analyse des poids BoW et TF-IDF mot par mot Questions : réponses sur les limites du Bag of Words et sur la différence avec TF-IDF
 
-Outils utilisés Python, Jupyter Notebook, scikit-learn, pandas
+## Outils utilisés 
+Python, Jupyter Notebook, scikit-learn, pandas
 
 Fichier principal tp2_bow_tfidf.ipynb : le notebook avec le code, les résultats et mes réponses aux questions.
 
